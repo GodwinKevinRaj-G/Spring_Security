@@ -1,0 +1,6 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¢úÈ8õÙ´Ú2
+
+java:S3305"]Inject this field value directly into "authenticationProvider", the only method that uses it.(Ä‹¹«úÿÿÿÿ8Ú´Ú2
+i
+java:S1612"LReplace this lambda with method reference 'AbstractHttpConfigurer::disable'.(Ø¢úÈ8„Ú´Ú2
